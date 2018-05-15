@@ -46,8 +46,8 @@ a .infobulle{
     transition: all 0.25s;
     top: 34%;
     left: 29%;
-    font-size: 14px;
-    height: 30px;
+    font-size: 12px;
+    height: 60px;
     width: 140px;
 }
 
